@@ -10,7 +10,7 @@ Examples of behaviors that contribute to a positive environment include:
 
 All participants are treated with respect and consideration, valuing a diversity of views and opinions
 Be considerate, respectful, and collaborative
-Communicate openly with respect for others, critiquing ideas rather than individuals and gracefully accepting criticisim
+Communicate openly with respect for others, critiquing ideas rather than individuals and gracefully accepting criticism
 Acknowledging the contributions of others
 Avoid personal attacks directed toward other participants
 Be mindful of your surroundings and of your fellow participants
