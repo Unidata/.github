@@ -1,3 +1,6 @@
+# Contributor Code of Conduct
+_The Contributor Code of Conduct is for participants in our software projects and community._
+
 ## Our Pledge
 We, as contributors, creators, stewards, and maintainers (participants), of software managed by the Unidata Program Center pledge to make participation in our software, system or hardware project and community a safe, productive, welcoming and inclusive experience for everyone.
 All participants are required to abide by this Code of Conduct.
