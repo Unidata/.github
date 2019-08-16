@@ -80,6 +80,6 @@ This Code of Conduct was originally adapted from the [Contributor Covenant](http
 We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct.
 The UCAR Participant Code of Conduct applies to both UCAR employees, as well as participants in activities run by UCAR.
 We modified the Scope section with the django project description, and we added "Publication Ethics" from the NGEET/FATES project.
-The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://www.ucar.edu/who-we-are/ethics-integrity/codes-conduct/contributors (the date that it was adopted by this project was 2019-07-12).
+The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132 (the date that it was adopted by Unidata Program Center was 2019-08-16).
 When responding to complaints UCAR HR and ODEI will do so based on the latest published version.
 Therefore, any project-specific changes should follow the [Process for Changes](#process-for-changes) section above.
