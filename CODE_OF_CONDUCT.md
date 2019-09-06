@@ -75,7 +75,7 @@ Projects that adopt this Code of Conduct need to stay up to date with UCAR's Con
 Projects can make limited substantive changes to the Code of Conduct, however, the changes must be limited in scope and may not contradict the UCAR Contributor Code of Conduct.
 
 ## Attribution
-This Code of Conduct was originally adapted from the [Contributor Covenant](http://contributor-covenant.org/version/1/4), version 1.4.1.
+This Code of Conduct was originally adapted from the [Contributor Covenant](http://contributor-covenant.org/version/1/4), version 1.4.
 We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct.
 The UCAR Participant Code of Conduct applies to both UCAR employees as well as participants in activities run by UCAR.
 The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132.
