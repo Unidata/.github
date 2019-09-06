@@ -2,7 +2,7 @@
 _The Contributor Code of Conduct is for participants in our software projects and community._
 
 ## Our Pledge
-We, as contributors, creators, stewards, and maintainers (participants), of software managed by the Unidata Program Center pledge to make participation in our software, system or hardware project and community a safe, productive, welcoming and inclusive experience for everyone.
+We, as contributors, creators, stewards, and maintainers (participants), of **[Enter project name]** pledge to make participation in our software, system or hardware project and community a safe, productive, welcoming and inclusive experience for everyone.
 All participants are required to abide by this Code of Conduct.
 This includes respectful treatment of everyone regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, political affiliation, veteran status, pregnancy, genetic information, physical appearance, race, religion, or sexual orientation, as well as any other characteristic protected under applicable US federal or state law.
 
@@ -14,7 +14,7 @@ Examples of behaviors that contribute to a positive environment include:
 * Communicate openly with respect for others, critiquing ideas rather than individuals and gracefully accepting criticism
 * Acknowledging the contributions of others
 * Avoid personal attacks directed toward other participants
-* Be mindful of your surroundings and of your fellow participants
+* Be mindful of your surroundings and of your fellow participants 
 * Alert UCAR staff and suppliers/vendors if you notice a dangerous situation or someone in distress
 * Respect the rules and policies of the project and venue
 
@@ -26,12 +26,12 @@ Examples of unacceptable behavior include, but are not limited to:
 * Personal attacks directed at other guests, members, participants, etc.
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Alarming, intimidating, threatening, or hostile comments or conduct
-* Inappropriate use of nudity and/or sexual images
+* Inappropriate use of nudity and/or sexual images 
 * Threatening or stalking anyone, including a participant
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
-This Code of Conduct applies to all spaces managed by the Unidata Program Center whether they be physical, online or face-to-face.
+This Code of Conduct applies to all spaces managed by the Project whether they be physical, online or face-to-face.
 This includes project code, code repository, associated web pages, documentation, mailing lists, project websites and wiki pages, issue tracker, meetings, telecons, events, project social media accounts, and any other forums created by the project team which the community uses for communication.
 In addition, violations of this Code of Conduct outside these spaces may affect a person's ability to participate within them.
 Representation of a project may be further defined and clarified by project maintainers.
@@ -50,7 +50,7 @@ Project administrators are also expected to keep this Code of Conduct updated wi
 
 ## Reporting
 Instances of unacceptable behavior can be brought to the attention of the project administrator(s) who may take any action as outlined in the [Consequences](#consequences) section below.
-However, making a report to a project administrator is not considered an 'official report' to UCAR.
+However, making a report to a project administrator is not considered an 'official report' to UCAR. 
 
 Instances of unacceptable behavior may also be reported directly to UCAR pursuant to [UCAR's Harassment Reporting and Complaint Procedure](https://www2.fin.ucar.edu/procedures/hr/harassment-reporting-and-complaint-procedure), or anonymously through [UCAR's EthicsPoint Hotline](https://www2.fin.ucar.edu/ethics/anonymous-reporting).
 
@@ -79,6 +79,6 @@ This Code of Conduct was originally adapted from the [Contributor Covenant](http
 We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct.
 The UCAR Participant Code of Conduct applies to both UCAR employees as well as participants in activities run by UCAR.
 The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132.
-The date that it was adopted by Unidata Program Center was 2019-08-22.
+The date that it was adopted by this project was **[Enter date adopted]**.
 When responding to complaints, UCAR HR and ODEI will do so based on the latest published version.
 Therefore, any project-specific changes should follow the [Process for Changes](#process-for-changes) section above.
