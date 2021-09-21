@@ -1,4 +1,4 @@
-![logo](https://www.unidata.ucar.edu/images/logo.png)
+![logo](https://www.unidata.ucar.edu/images/logo_search.png)
 
 
 A simple repository to hold default community health files for UCAR/UCP/Unidata.
