@@ -15,4 +15,4 @@ in the form of issues and pull requests.
 
 ### Participant Code of Conduct
 If you're interested in contributing, please take a look at NSF Unidata's
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+[Contributor Code of Conduct](https://github.com/Unidata/.github/blob/main/CODE_OF_CONDUCT.md).
