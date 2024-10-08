@@ -1,4 +1,4 @@
-![logo](https://www.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal_2024.png
+![logo](https://www.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal_2024.png)
 
 ## What is NSF Unidata?
 
