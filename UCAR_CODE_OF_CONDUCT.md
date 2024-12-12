@@ -2,19 +2,19 @@
 _The Contributor Code of Conduct is for participants in our software projects and community._
 
 ## Our Pledge
-We, as contributors, creators, stewards, and maintainers (participants), of **[Enter project name]** pledge to make participation in our software, system or hardware project and community a safe, productive, welcoming and inclusive experience for everyone.
-All participants are required to abide by this Code of Conduct.
+We, as contributors, creators, stewards, and maintainers (collectively referred to as "contributors" below), of **[Enter project name]** pledge to make participation in our software, system or hardware project and community a safe, productive, welcoming and inclusive experience for everyone.
+All contributors are required to abide by this Code of Conduct.
 This includes respectful treatment of everyone regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, political affiliation, veteran status, pregnancy, genetic information, physical appearance, race, religion, or sexual orientation, as well as any other characteristic protected under applicable US federal or state law.
 
 ## Our Standards
 Examples of behaviors that contribute to a positive environment include:
 
-* All participants are treated with respect and consideration, valuing a diversity of views and opinions
+* All contributors are treated with respect and consideration, valuing a diversity of views and opinions
 * Be considerate, respectful, and collaborative
 * Communicate openly with respect for others, critiquing ideas rather than individuals and gracefully accepting criticism
 * Acknowledging the contributions of others
-* Avoid personal attacks directed toward other participants
-* Be mindful of your surroundings and of your fellow participants 
+* Avoid personal attacks directed toward other contributors
+* Be mindful of your surroundings and of your fellow contributors
 * Alert UCAR staff and suppliers/vendors if you notice a dangerous situation or someone in distress
 * Respect the rules and policies of the project and venue
 
@@ -23,11 +23,11 @@ Examples of unacceptable behavior include, but are not limited to:
 * Harassment, intimidation, or discrimination in any form
 * Physical, verbal, or written abuse by anyone to anyone, including repeated use of pronouns other than those requested
 * Unwelcome sexual attention or advances
-* Personal attacks directed at other guests, members, participants, etc.
+* Personal attacks directed at other guests, members, contributors, etc.
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Alarming, intimidating, threatening, or hostile comments or conduct
-* Inappropriate use of nudity and/or sexual images 
-* Threatening or stalking anyone, including a participant
+* Inappropriate use of nudity and/or sexual images
+* Threatening or stalking anyone, including a contributors
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
@@ -49,12 +49,16 @@ Project administrator(s) are normally the ones that would be tasked to carry out
 Project administrators are also expected to keep this Code of Conduct updated with the main one housed at UCAR, as listed below in the [Attribution](#attribution) section.
 
 ## Reporting
-Instances of unacceptable behavior can be brought to the attention of the project administrator(s) who may take any action as outlined in the [Consequences](#consequences) section below.
-However, making a report to a project administrator is not considered an 'official report' to UCAR. 
+Instances of unacceptable behavior can be brought to the attention of the project administrator(s) who may take any reasonable and necessary action to address and stop the behavior.
+However, making a report to a project administrator is not considered an 'official report' to UCAR.
 
-Instances of unacceptable behavior may also be reported directly to UCAR pursuant to [UCAR's Harassment Reporting and Complaint Procedure](https://www2.fin.ucar.edu/procedures/hr/harassment-reporting-and-complaint-procedure), or anonymously through [UCAR's EthicsPoint Hotline](https://www2.fin.ucar.edu/ethics/anonymous-reporting).
+Instances of unacceptable behavior may also be reported:
 
-Complaints received by UCAR will be handled pursuant to the procedures outlined in UCAR's Harassment Reporting and Complaint Procedure.
+* To [The Chief Human Resources Officer](mailto:chro@ucar.edu) who serves as UCAR’s Section 504, Title VI, VII and IX Coordinator;
+* Through [https://www.ucar.edu/who-we-are/ethics); or
+* Anonymously through UCAR’s [EthicsPoint Hotline](https://www2.fin.ucar.edu/ethics/anonymous-reporting).
+
+Complaints received by UCAR will be handled pursuant to the procedures outlined in [UCAR's Harassment Reporting and Complaint Procedure](https://sundog.ucar.edu/Interact/Pages/Content/Document.aspx?id=5140).
 Complaints to UCAR will be held as confidential as practicable under the circumstances, and retaliation against a person who initiates a complaint or an inquiry about inappropriate behavior will not be tolerated.
 
 Any Contributor can use these reporting methods even if they are not directly affiliated with UCAR.
@@ -63,7 +67,7 @@ The Frequently Asked Questions (FAQ) page for reporting is [here](https://www2.f
 ## Consequences
 Upon receipt of a complaint, the project administrator(s) may take any action deemed necessary and appropriate under the circumstances.
 Such action can include things such as: removing, editing, or rejecting comments, commits, code, wiki edits, email, issues, and other contributions that are not aligned to this Code of Conduct, or banning temporarily or permanently any contributor for other behaviors that are deemed inappropriate, threatening, offensive, or harmful.
-Project administrators also have the right to report violations to UCAR HR and/or UCAR's Office of Diversity, Equity and Inclusion (ODEI), as well as a participant's home institution and/or law enforcement.
+Project administrators also have the right to report violations to UCAR HR and/or UCAR's Office of Diversity, Equity and Inclusion (ODEI), as well as a contributor’s home institution and/or law enforcement.
 In the event an incident is reported to UCAR, UCAR will follow its Harassment Reporting and Complaint Procedure.
 
 ## Process for Changes
@@ -82,3 +86,8 @@ The original version of this for all software projects that have strong manageme
 The date that it was adopted by this project was **[Enter date adopted]**.
 When responding to complaints, UCAR HR and ODEI will do so based on the latest published version.
 Therefore, any project-specific changes should follow the [Process for Changes](#process-for-changes) section above.
+
+As an Equal Employment Opportunity Employer and recipient of federal funds, UCAR complies with Title VI, Title VII, and Title IX of the Civil Rights Act; the Rehabilitation Act of 1973, as amended, and the Age Discrimination in Employment Act of 1975, as amended.
+See [UCAR’s Nondiscrimination Statement](https://web.archive.org/web/20240713022703/https://www.ucar.edu/who-we-are/ethics-integrity/nondiscrimination).
+
+Rev. May 2004
