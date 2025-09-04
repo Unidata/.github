@@ -1,9 +1,5 @@
 ![logo](https://www.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal_2024.png)
 
-## NSF Unidata Pause in Most Operations
-
-Due to the current gap in continued funding from the U.S. National Science Foundation (NSF), the NSF Unidata Program Center has temporarily paused most operations. **As a result, activity from Unidata Program Center staff on this repository will cease until after the temporary pause.** See [NSF Unidata Pause in Most Operations](https://www.unidata.ucar.edu/blogs/news/entry/nsf-unidata-pause-in-most) for details.
-
 ## What is NSF Unidata?
 
 U.S. National Science Foundation Unidata is a diverse community of education and research institutions with the common goal 
