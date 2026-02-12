@@ -1,4 +1,4 @@
-![logo](https://www.unidata.ucar.edu/images/logo_search.png)
+![logo](https://assets.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal.png)
 
 
 A simple repository to hold default community health files for UCAR/UCP/Unidata.
