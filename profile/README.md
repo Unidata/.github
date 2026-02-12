@@ -1,5 +1,4 @@
-![logo](https://www.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal_2024.png)
-
+![logo](https://assets.unidata.ucar.edu/images/logos/NSF-Unidata_lockup_horizontal.png)
 ## What is NSF Unidata?
 
 U.S. National Science Foundation Unidata is a diverse community of education and research institutions with the common goal 
